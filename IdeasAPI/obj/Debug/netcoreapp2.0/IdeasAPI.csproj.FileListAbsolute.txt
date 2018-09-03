@@ -1,0 +1,11 @@
+E:\JP\IT\Github\ideas api core\IdeasAPI\bin\Debug\netcoreapp2.0\IdeasAPI.deps.json
+E:\JP\IT\Github\ideas api core\IdeasAPI\bin\Debug\netcoreapp2.0\IdeasAPI.runtimeconfig.json
+E:\JP\IT\Github\ideas api core\IdeasAPI\bin\Debug\netcoreapp2.0\IdeasAPI.runtimeconfig.dev.json
+E:\JP\IT\Github\ideas api core\IdeasAPI\bin\Debug\netcoreapp2.0\IdeasAPI.dll
+E:\JP\IT\Github\ideas api core\IdeasAPI\bin\Debug\netcoreapp2.0\IdeasAPI.pdb
+E:\JP\IT\Github\ideas api core\IdeasAPI\obj\Debug\netcoreapp2.0\IdeasAPI.csprojAssemblyReference.cache
+E:\JP\IT\Github\ideas api core\IdeasAPI\obj\Debug\netcoreapp2.0\IdeasAPI.csproj.CoreCompileInputs.cache
+E:\JP\IT\Github\ideas api core\IdeasAPI\obj\Debug\netcoreapp2.0\IdeasAPI.AssemblyInfoInputs.cache
+E:\JP\IT\Github\ideas api core\IdeasAPI\obj\Debug\netcoreapp2.0\IdeasAPI.AssemblyInfo.cs
+E:\JP\IT\Github\ideas api core\IdeasAPI\obj\Debug\netcoreapp2.0\IdeasAPI.dll
+E:\JP\IT\Github\ideas api core\IdeasAPI\obj\Debug\netcoreapp2.0\IdeasAPI.pdb
